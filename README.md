@@ -7,7 +7,7 @@ To use this plugin, you need to first install the Advanced Custom Fields (ACF) P
    - [ACF PRO Download Link](https://drive.google.com/drive/folders/17xcnliMx-KyHGd0cQw6E3dU4GxRVwYHk?usp=sharing)
    
 2. **Download and Install the Recent Posts Load More Plugin**:
-   - You can download it directly as a ZIP file from the link below.
+   - You can download it directly as a ZIP file from Git or Fork it in your plugins folder
 
 ## Installation
 
