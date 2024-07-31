@@ -33,5 +33,4 @@ To use this plugin, you need to first install the Advanced Custom Fields (ACF) P
 
 For a demonstration of the expected results, please check the following link:
 [Expected Results](https://drive.google.com/drive/folders/1MhXlPsQSxEMw_-scuBDP9Pd5Htb57ArG?usp=sharing)
-# Load-more-posts
-# Load-more-posts
+
