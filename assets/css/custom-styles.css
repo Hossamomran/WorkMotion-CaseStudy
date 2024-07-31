@@ -1,0 +1,47 @@
+/* custom-styles.css
+*Should be deleted kept for testing and Task purpose
+ */
+.blog-page-container {
+    width: 100%;
+    padding: 0;
+}
+
+.tile-wrapper {
+    padding: 0;
+}
+
+.inner-box {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+}
+
+.inner-box .image img {
+    width: 100%;
+    height: auto;
+}
+
+.lower-content {
+    padding: 20px;  
+}
+
+
+.lower-content p {
+    margin-bottom: 0;
+    color: #000000;
+}
+
+.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){
+    max-width: 100% !important;
+}
+.blog-page-container .image img {
+    max-height: 300px;
+    object-fit: cover;
+}
+.read-more-container {
+    margin-top: 3rem;
+    margin-bottom: 0;
+    padding: 22px 18px;
+}   
